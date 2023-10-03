@@ -8,11 +8,9 @@ This project requires no installation of additional technologies for the user to
 
 ## Usage: 
 
-### Image 1 Caption
-![]()
-### Image 2 Caption
-![]()
-### Image 3 Caption
-![]()
-### Image 4 Caption
-![]()
+### Upon Loading in the user will see the date and time of date
+![](./assets/rmeimgs/DP1.png)
+### The User will see the urrent hour block as highlighted green, past blocks as gray, and future blocks as red.
+![](./assets/rmeimgs/DP2.png)
+### The User has the ability to type inputs and save them on the page
+![](./assets/rmeimgs/DP3.png)
